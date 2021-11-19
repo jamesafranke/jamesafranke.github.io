@@ -12,7 +12,7 @@ Wang, Z., Franke, J. A., Luo, Z. & Moyer, E. J. Reanalyses and a high-resolution
 
 Müller, C., Franke, J. A., Jägermeyr, J., Ruane, A. C., Elliott, J., Moyer, E., Heinke, J., Pete Falloon, C. F.,Francois, L., Hank, T., Izaurralde, R. C., Ingrid Jacquemin, W. L., Stefan Olin, T. A. M. P., Williams, K. & Zabel, F. Exploring uncertainties of the full range of climate scenarios from CMIP and CMIP for global crop yields. Environmental Research Letters (2021).
 
-3. Zabel, F., Müller, C., Elliott, J., Minoli, S., Jägermeyr, J., Schneider, J. M., Franke, J. A., Moyer, E., Christian Folberth, M. D., Francois, L., Liu, W., Pugh, T. A. M., Olin, S., Rabin, S. S., Mauser, W., et al. Large potential for crop production adaptation depends on available future varieties. Global Change Biology (2021).
+Zabel, F., Müller, C., Elliott, J., Minoli, S., Jägermeyr, J., Schneider, J. M., Franke, J. A., Moyer, E., Christian Folberth, M. D., Francois, L., Liu, W., Pugh, T. A. M., Olin, S., Rabin, S. S., Mauser, W., et al. Large potential for crop production adaptation depends on available future varieties. Global Change Biology (2021).
 
 Franke, J. A., Müller, C., Elliott, J., Ruane, A. C., Jägermeyr, J., Balkovic, J., Ciais, P., Dury, M., Falloon, P. D., Folberth, C., Francois, L., Hank, T., Homann, M., Izaurralde, R. C., Jacquemim, I., et al. The GGCMI Phase  experiment: simulating and emulating global crop yield responses to changes in CO, temperature, water, and nitrogen levels. Geoscientific Model Development (2020).
 
