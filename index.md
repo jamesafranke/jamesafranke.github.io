@@ -1,24 +1,10 @@
 # James Franke
 
-I am a PhD Candiate at the University of Chicago forcusing on climate
+I am a PhD Candiate at the University of Chicago forcusing on climate change impacts. I used models, remote sensing, and deep learning to try to better understand what parts of the world are most vunerable to climate change. 
 
-## Pages and structure
-
-Here are a few empty pages connecting to the menu links to show where files can go and the resulting paths. (It's probably best if you look at the source folder for this).
-
-* [research](/research.md)
-* [publications](/menu2.md)
-* [talks](/menu3/)
-
-## References (not really)
-
-* \biblabel{noether15}{Noether (1915)} **Noether**,  Körper und Systeme rationaler Funktionen, 1915.
-* \biblabel{bezanson17}{Bezanson et al. (2017)} **Bezanson**, **Edelman**, **Karpinski** and **Shah**, [Julia: a fresh approach to numerical computing](https://julialang.org/research/julia-fresh-approach-BEKS.pdf), SIAM review 2017.
+[research in progress](/menu1.md) [publications](/menu2.md)
 
 ## Header and Footer
-
-As you can see here at the bottom of the page, there is a footer which you may want on all pages but for instance you may want the date of last modification to be displayed.
-In a fashion heavily inspired by [Hugo](https://gohugo.io), you can write things like
 
 ```html
 Last modified: {{ fill fd_mtime }}.
