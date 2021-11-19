@@ -6,8 +6,8 @@ I am a PhD Candiate at the University of Chicago forcusing on climate
 
 Here are a few empty pages connecting to the menu links to show where files can go and the resulting paths. (It's probably best if you look at the source folder for this).
 
-* [research](/menu1/)
-* [publications](/menu2/)
+* [research](/research.md)
+* [publications](/menu2.md)
 * [talks](/menu3/)
 
 ## References (not really)
