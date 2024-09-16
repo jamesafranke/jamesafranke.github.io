@@ -4,11 +4,17 @@ Clouds represent the biggest source of uncertainty in climate response to CO$_2$
 ## Temperature controls on low cloud morphology 
 Using a self-supervised cloud classification system based on an auto-encoder, we can track cloud population dynamics. 
 
+![image](clouds.png)
+
+
 ## Data-driven forecasting
 Motivated by recent advances in data-driven weather forecasting
 
+![image](forecast.png)
+[above] 6-hour forecast rolled out at 30 min timestep for east asia. 
 
 # Climate Interventions
+
 
 
 
