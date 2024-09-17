@@ -11,13 +11,13 @@ Motivated by recent advances in data-driven weather forecasting
 
 We employ a decoder-only transformer (GPT-like) to learn the relationship between two historical timesteps and one future timestep. Forecasts can in principle be rolled out indefinitly. Research is prelimanry. 
 
-<img src="forecast.png" width="500">
+<img src="forecast.png" width="600">
 [above] 6-hour forecast rolled out at 30 min timestep for the Western Pacific. 
 
 # Climate Interventions
 Stratophseric aerosol injection may impact low clouds by changeing the raditive cloud top cooling or vertical temperature structure of the atmosphere. 
 
-
+<img src="rca.png" width="600">
 
 
 # Food Security
@@ -29,8 +29,10 @@ We employ a meta-analyis of published cattle heat stress studies.
 
 Crucially, land use forecasts of increased agricutual land are most dramatic in tropical rainforests. This drives a 
 
-<img src="cattle.png" width="500">
+<img src="cattle.png" width="450">
 
 
 ## Shifting cropland under climate change
+
+<img src="regions.png" width="600">
 
