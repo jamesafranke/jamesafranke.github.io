@@ -12,6 +12,8 @@ See more details:
 ## Data-driven cloud forecasting
 Motivated by recent advances in data-driven weather forecasting
 
+however, all recent transformer forecast models are trained on reanalysis model data, which does not contain all the revelant cloud phyisics to begin with.
+
 We developed a new machine-learning ready cloud dataset based on the 5 main geostationary satelites.
 
 <img src="cloudbench.png" width="700">
