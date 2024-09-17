@@ -14,7 +14,7 @@ Motivated by recent advances in data-driven weather forecasting
 
 however, all recent transformer forecast models are trained on reanalysis model data, which does not contain all the revelant cloud phyisics to begin with.
 
-We developed a new machine-learning ready cloud dataset based on the 5 main geostationary satelites.
+We developed a new machine-learning ready cloud dataset based on the 5 main geostationary satelites we call CloudBench (following WeatherBench). Geostationary observations from 
 
 <img src="cloudbench.png" width="700">
 **[above]** CloudBench RGB mosaic constructed from 5 geostationary satellites with ``natural" color on the day side (high clouds in blue) and colorized IR clouds on the night side.
