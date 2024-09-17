@@ -5,7 +5,7 @@ Clouds represent the biggest source of uncertainty in climate response to CO$_2$
 Using a self-supervised cloud classification system based on an auto-encoder, we can track cloud population dynamics. 
 
 <img src="clouds.png" width="500">
-__[above]__ Self-supervised low cloud classes in the subtropics map to temperature stability space. (Classes contain no temperature information to begin with.)
+**[above]** Self-supervised low cloud classes in the subtropics map to temperature stability space. (Classes contain no temperature information to begin with.)
 
 See more details: 
 
@@ -15,12 +15,12 @@ Motivated by recent advances in data-driven weather forecasting
 We developed a new machine-learning ready cloud dataset based on the 5 main geostationary satelites.
 
 <img src="cloudbench.png" width="700">
-[above] CloudBench RGB mosaic constructed from 5 geostationary satellites with ``natural" color on the day side (high clouds in blue) and colorized IR clouds on the night side.
+**[above]** CloudBench RGB mosaic constructed from 5 geostationary satellites with ``natural" color on the day side (high clouds in blue) and colorized IR clouds on the night side.
 
 We employ a decoder-only transformer (GPT-like) to learn the relationship between two historical timesteps and one future timestep. Forecasts can in principle be rolled out indefinitely. Research is preliminary. 
 
 <img src="forecast.png" width="700">
-[above] 6-hour forecast rolled out at 30 min timestep for the Western Pacific. 
+**[above]** 6-hour forecast rolled out at 30 min timestep for the Western Pacific. 
 
 # Climate Interventions
 Stratospheric aerosol injection may impact low clouds by changing the radiative cloud top cooling or vertical temperature structure of the atmosphere. 
@@ -38,7 +38,7 @@ We employ a meta-analyis of published cattle heat stress studies.
 Crucially, land use forecasts of increased agricutual land are most dramatic in tropical rainforests. This drives a 
 
 <img src="cattle.png" width="400">
-[above] 
+**[above]**
 
 See more details: 
 
@@ -47,10 +47,10 @@ See more details:
 Without extensive growing season adaptations (and associated cultivar development), regions of peak yield do not shift 
 
 <img src="latloss.png" width="500">
-[above]
+**[above]**
 
 <img src="regions.png" width="700">
-[above]
+**[above]**
 
 See more details: 
 
