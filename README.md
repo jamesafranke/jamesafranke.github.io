@@ -15,6 +15,7 @@ We employ a decoder-only transformer (GPT-like) to learn the relationship betwee
 [above] 6-hour forecast rolled out at 30 min timestep for the Western Pacific. 
 
 # Climate Interventions
+Stratophseric aerosol injection may impact low clouds by changeing the raditive cloud top cooling or vertical temperature structure of the atmosphere. 
 
 
 
@@ -29,4 +30,7 @@ We employ a meta-analyis of published cattle heat stress studies.
 Crucially, land use forecasts of increased agricutual land are most dramatic in tropical rainforests. This drives a 
 
 <img src="cattle.png" width="500">
+
+
+## Shifting cropland under climate change
 
