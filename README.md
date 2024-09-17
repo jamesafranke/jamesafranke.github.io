@@ -9,13 +9,13 @@ Using a self-supervised cloud classification system based on an auto-encoder, we
 ## Data-driven forecasting
 Motivated by recent advances in data-driven weather forecasting
 
-We employ a decoder-only transformer (GPT-like) to learn the relationship between two historical timesteps and one future timestep. Forecasts can in principle be rolled out indefinitly. Research is prelimanry. 
+We employ a decoder-only transformer (GPT-like) to learn the relationship between two historical timesteps and one future timestep. Forecasts can in principle be rolled out indefinitely. Research is preliminary. 
 
 <img src="forecast.png" width="700">
 [above] 6-hour forecast rolled out at 30 min timestep for the Western Pacific. 
 
 # Climate Interventions
-Stratophseric aerosol injection may impact low clouds by changeing the raditive cloud top cooling or vertical temperature structure of the atmosphere. 
+Stratospheric aerosol injection may impact low clouds by changing the radiative cloud top cooling or vertical temperature structure of the atmosphere. 
 
 <img src="rca.png" width="500">
 
@@ -23,7 +23,7 @@ Stratophseric aerosol injection may impact low clouds by changeing the raditive 
 # Food Security
 
 ## Heat stress for cattle
-Cattle are by far the most economically imporant livestock species worldwide, with estimated over 1 billion animals. 
+Cattle are by far the most economically important livestock species worldwide, with estimated over 1 billion animals. 
 
 We employ a meta-analyis of published cattle heat stress studies. 
 
@@ -33,6 +33,10 @@ Crucially, land use forecasts of increased agricutual land are most dramatic in 
 
 
 ## Shifting cropland under climate change
+
+Without extensive growing season adaptations (and associated cultivar development), regions of peak yield do not shift 
+<img src="latloss.png" width="500">
+
 
 <img src="regions.png" width="700">
 
