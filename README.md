@@ -6,8 +6,12 @@ Using a self-supervised cloud classification system based on an auto-encoder, we
 
 <img src="clouds.png" width="500">
 
-## Data-driven forecasting
+## Data-driven cloud forecasting
 Motivated by recent advances in data-driven weather forecasting
+
+We developed a new machine-learning ready cloud dataset based on the 5 main geostationary satelites.
+
+<img src="cloudbench.png" width="700">
 
 We employ a decoder-only transformer (GPT-like) to learn the relationship between two historical timesteps and one future timestep. Forecasts can in principle be rolled out indefinitely. Research is preliminary. 
 
@@ -35,6 +39,7 @@ Crucially, land use forecasts of increased agricutual land are most dramatic in 
 ## Shifting cropland under climate change
 
 Without extensive growing season adaptations (and associated cultivar development), regions of peak yield do not shift 
+
 <img src="latloss.png" width="500">
 
 
