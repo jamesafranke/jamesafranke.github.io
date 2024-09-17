@@ -5,7 +5,7 @@ Clouds represent the biggest source of uncertainty in climate response to CO$_2$
 Using a self-supervised cloud classification system based on an auto-encoder, we can track cloud population dynamics. 
 
 <img src="clouds.png" width="500">
-**above** Self-supervised low cloud classes in the subtropics map to temperature stability space. (Classes contain no temperature information to begin with.)
+**[above]** Self-supervised low cloud classes in the subtropics map to temperature stability space. (Classes contain no temperature information to begin with.)
 
 See more details: 
 
