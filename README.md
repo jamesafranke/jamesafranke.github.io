@@ -9,8 +9,10 @@ Using a self-supervised cloud classification system based on an auto-encoder, we
 ## Data-driven forecasting
 Motivated by recent advances in data-driven weather forecasting
 
-![image](forecast.png)
-[above] 6-hour forecast rolled out at 30 min timestep for east asia. 
+We employ a decoder-only transformer (GPT-like) to learn the relationship between two historical timesteps and one future timestep. Forecasts can in principle be rolled out indefinitly. Research is prelimanry. 
+
+<img src="forecast.png" width="500">
+[above] 6-hour forecast rolled out at 30 min timestep for the Western Pacific. 
 
 # Climate Interventions
 
@@ -18,4 +20,13 @@ Motivated by recent advances in data-driven weather forecasting
 
 
 # Food Security
+
+## Heat stress for cattle
+Cattle are by far the most economically imporant livestock species worldwide, with estimated over 1 billion animals. 
+
+We employ a meta-analyis of published cattle heat stress studies. 
+
+Crucially, land use forecasts of increased agricutual land are most dramatic in tropical rainforests. This drives a 
+
+<img src="cattle.png" width="500">
 
