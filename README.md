@@ -2,12 +2,12 @@
 Clouds represent the biggest source of uncertainty in climate response to CO$_2$ forcing. Of special concern are the stratocumulus decks found in the subtropics. Modeling their dynamics is challenging at scale, and so their behavior must be approximated in global models. Satellite observations provide an opportunity to learn about cloud physics, but represent a serious data challenge. 
 
 ## Temperature controls on low cloud morphology 
-Using a self-supervised cloud classification system based on an auto-encoder, we can track cloud population dynamics. 
+Using a self-supervised cloud classification system based on an auto-encoder applied to MODIS multi-spectral imagry, we can identify cloud types based on texture, which may diferentiate physical processes. When employed on 20 years of MODIS observations and co-located we reanalysis weather data. We find that low cloud texture in the subtropics is well-explained by the temperature structure of the lower tropopshere, specifically the estimated inversion strenght and the near surface temperature. In each temperature regime, you are most likely to find a certain class of clouds (boundaries are less clear).
 
 <img src="clouds.png" width="500">
-**[above]** Self-supervised low cloud classes in the subtropics map to temperature stability space. (Classes contain no temperature information to begin with.)
+**[above]** A) AICCA cloud classes mapped to a meteorological domain of near-surface temperature and inversion strength, for all patches in the three main subtropical stratocumulus regions.  Regions of dominance are generally well-separated and coherent. The 10 most dominant classes are color-coded; all high clouds (mean cloud top pressure $>$680 hPa) are shown in light grey.  Nine of the 10 classes are stratocumulus; #20 is thinner and higher. Thumbnail images of typical class members are shown at bottom. (B) As in panel A but with dots scaled in size according to frequency of those meteorological conditions (for samples with clouds). The trade winds tend to move parcels on this diagram from upper left to lower right, i.e.\ from cold and stable to warmer and less stable, with clouds textures responding by becoming more open: #35 -> \#30 -> \#40.  (C) As in panel A but with dots scaled to represent the share of all clouds by the most dominant cloud class. Very high- or low-stability conditions produce more consistent textures. (D) The three stratocumulus regions color-coded by the most dominant cloud class in each location, using the same color code. Classes are distributed in understandable geographic patterns, following large-scale environmental gradients. As expected, zones of thick stratocumulus are in the subtropics.
 
-See more details: 
+See more details: https://github.com/jamesafranke/AICCA/blob/master/ms/low_marine_clouds_met_PNAS.pdf
 
 ## Data-driven cloud forecasting
 Motivated by recent advances in data-driven weather forecasting
